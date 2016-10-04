@@ -193,15 +193,18 @@
 				TargetAttributes = {
 					22F6A5A41DA456920012AB77 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 945UX33GB4;
 						ProvisioningStyle = Automatic;
 					};
 					22F6A5B81DA456930012AB77 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 945UX33GB4;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 22F6A5A41DA456920012AB77;
 					};
 					22F6A5C31DA456930012AB77 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 945UX33GB4;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 22F6A5A41DA456920012AB77;
 					};
@@ -336,9 +339,11 @@
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Luis Maqueda Martos (8DC36PWDK4)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 945UX33GB4;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -388,6 +393,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 945UX33GB4;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
